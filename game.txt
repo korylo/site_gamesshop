@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="x-UA-compatible"content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GAme shop - A sua  loja de games</title>
+    <link rel="stylesheet" href="./main.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bungee&family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Games Shop</h1>
+        <nav>
+            <ul>
+                <li>
+                    <a href="#">sobre a loja</a>
+                </li>
+                <li>
+                    <a href="#">contato</a>
+                </li>
+            </ul>
+        </nav>        
+    </header>
+    <section>
+        <div class="container">
+            <img class="store- font"src="./loja.jpg" alf="achada da loja Game Shop"/>
+            <div>
+                <h2>sobre a loja</h2>
+                <p>
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ratione consequuntur blanditiis iure, ipsum autem deleniti! Modi animi quaerat sapiente porro enim accusantium ut dolore dicta corrupti perferendis, commodi laborum amet.
+                </p>    
+                <p>
+                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique temporibus, aut iste quas possimus provident, dicta accusantium dolorem sed autem, maiores fugiat quo vero? Expedita nobis illo error sed corrupti!
+                </p>
+                <ul class="brands-list">
+                    <li><img src="./nintendo.png" alt="Nitendo"/></li>
+                    <li><img src="./xbox.png" alt="xbox"/></li>
+                    <li><img src="./playstation.png" alt="playstation"/></li>
+                </ul>
+            </div>
+        </div>        
+    </section>   
+</body>
+</html>
